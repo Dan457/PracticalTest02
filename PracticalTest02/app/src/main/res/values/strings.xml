@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="pokemon">pokemon</string>
+    <string name="connect">Connect</string>
+    <string name="abilities">Abilitati</string>
+    <string name="type">tip</string>
+</resources>
