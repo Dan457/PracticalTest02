@@ -11,7 +11,7 @@ import cz.msebera.android.httpclient.client.ClientProtocolException;
 
 public class ServerThread extends Thread {
 
-    private int port = 0;
+    private int port = 3000;
     private ServerSocket serverSocket = null;
 
     private HashMap<String, PokemonInformation> data = null;
